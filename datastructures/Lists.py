@@ -3,7 +3,9 @@
 #a list has order
 
 friends = ["Bob", "Marie", "Sue"]
-friends.append("Roy")
-friends.append("Gill")
-friends.remove("Bob")
+#friends.append("Roy")
+#friends.append("Gill")
+#friends.remove("Sue")
 print(friends)
+
+print(friends[0])
