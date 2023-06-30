@@ -4,4 +4,6 @@
 
 myfriends = {"Joe", "Mike", "Lyn", "Essy"}
 myfriends.add("Joe")
+myfriends.add("Tracy")
+
 print(myfriends)
